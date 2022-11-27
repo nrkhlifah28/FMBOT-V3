@@ -44,8 +44,7 @@ global.pdana = '089618728196' //Dana
 global.povo = '0882001088717' //Ovo
 global.pgopay = '089618728196' //Gopay
 global.ppulsa = '089618728196' //Pulsa 
-global.ppulsa2 = '08820010887171'
-4' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
+global.ppulsa2 = '08820010887171' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
 global.psaweria = 'https://saweria.co/FangzBot' //Saweria
 global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make bot doang.│\n┝‷✧ *Ovo:* 088215689772\n│┝‷✧ *Dana:* 088215689772\n│┝‷✧ *Gopay:* 088215689772\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
 
