@@ -30,37 +30,38 @@ global.wktuwib = `${global.wibh} H ${global.wibm} M ${global.wibs} S`
 // Kalau gapunya di biarin aja!, atau ga di kasih tanda '-'
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/eabdalmufid_' //Instagram mu
-global.sgh = 'https://github.com/eabdalmufid' //Github mu
+global.sig = 'https://instagram.com/nrkhlifah28' //Instagram mu
+global.sgh = 'https://github.com/nrkhlifah28' //Github mu
 global.swb = 'https://linktr.ee/whatsappbotz '
 global.sfb = 'https://www.facebook.com/'
-global.syt = 'https://www.youtube.com/@silencebot' //YT Mu
-global.sgc = 'https://chat.whatsapp.com/HpxyS6b45SoGIKG7LHddiM' //Group WhatsApp mu
-global.sdc = 'https://www.youtube.com/@silencebot' //Discord Mu
+global.syt = 'https://www.youtube.com/@ipahtc' //YT Mu
+global.sgc = 'https://chat.whatsapp.com/DZgAa85hF2NDKGo20Ra7yS' //Group WhatsApp mu
+global.sdc = '-' //Discord Mu
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
-global.pdana = '088215689772' //Dana
-global.povo = '088215689772' //Ovo
-global.pgopay = '088215689772' //Gopay
-global.ppulsa = '088215689772' //Pulsa 
-global.ppulsa2 = '0895394988123' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
+global.pdana = '089618728196' //Dana
+global.povo = '0882001088717' //Ovo
+global.pgopay = '089618728196' //Gopay
+global.ppulsa = '089618728196' //Pulsa 
+global.ppulsa2 = '08820010887171
+4' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
 global.psaweria = 'https://saweria.co/FangzBot' //Saweria
 global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make bot doang.│\n┝‷✧ *Ovo:* 088215689772\n│┝‷✧ *Dana:* 088215689772\n│┝‷✧ *Gopay:* 088215689772\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '62895394988123' //Nomor Bot mu
-global.nomorown = '6288215689772' //Nomormu
-global.namebot = 'Fangz BOT' //Nama bot mu
-global.nameown = 'Fangz Ganz' //Nama mu
+global.nomorbot = '62882001088717' //Nomor Bot mu
+global.nomorown = '6289618728196' //Nomormu
+global.namebot = '© NoerBoTZ-Mdོ' //Nama bot mu
+global.nameown = 'NurkyyZdོ' //Nama mu
 
 /*⫘⫘⫘⫘GLOBAL FUNCTION⫘⫘⫘⫘⫘*/
 //KALAU MAGER EDIT, MENDING GAUSAH DI APA² IN. SAMA AJA//
-global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰' //Gausah di apa² in
+global.danied = '✘ 3𝗘𝗥𝗢𝗥 𝟰𝟬𝟰' //Gausah di apa² in
 global.after = 'Bot by https://bit.ly/3QJOy9F'
-global.swo = 'https://wa.me/6288215689772'
-global.author = '                © Fangz BOT By Fangz' //Wm author
-global.botintro = 'Hallo, Kenalin saya Fangz BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *FangzXD* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
+global.swo = 'https://wa.me/6289618728196'
+global.author = '                © NoerBoTZ-Mdོ BOT By Nurpeh' //Wm author
+global.botintro = 'Hallo, Perkenalkan saya BOT WhatsApp Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *NoerXD* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
 global.sallam = '💬 Waalaikumsallam'
 global.thumbBanned = 'https://telegra.ph/file/b810a9fbc18afc1aaa6c8.jpg'
 global.thumbWarn = 'https://telegra.ph/file/38f72943a6f152112d128.jpg'
@@ -144,9 +145,9 @@ global.xckey = 'BOhjM2hUVn'
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '                「 赤 FANGZ - BOT ⁩இ 」' //Wm
-global.wm2 = '➳༻❀Fangz - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
-global.wm3 = '赤 FANGZ - BOT'
+global.wm = '                「 赤 NOER - BOT ⁩இ 」' //Wm
+global.wm2 = '➳༻❀NurPah - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
+global.wm3 = '赤 Ipah - BOT'
 global.hiasan = '꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦'
 global.botdate = `🗓️️ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗪𝗔𝗞𝗧𝗨 : ${wib}`
@@ -469,11 +470,11 @@ global.fsizedoc = '99999999999999' // 10TB
 global.fpagedoc = '999' //Gausah di ganti.
 
 /*⫘⫘⫘⫘ BIO OWNER ⫘⫘⫘⫘⫘*/
-global.nameowner = 'FangzXD'
-global.umurowner = '15'
-global.asalowner = 'Yogyakarta, Jawa tengah'
-global.nomorowner = 'wa.me/6288215689772'
-global.pacarowner = 'Ga ada pacar'
+global.nameowner = 'Nur kholifah'
+global.umurowner = '18'
+global.asalowner = 'Tangerang, Jawa barat'
+global.nomorowner = 'wa.me/6289618728196'
+global.pacarowner = 'Iky ayg ak><'
 /*⫘⫘⫘⫘ HIASAN ⫘⫘⫘⫘⫘*/
 // DEFAULT MENU
 global.dmenut = 'ଓ═┅═━–〈' //top
@@ -504,8 +505,8 @@ global.fpagedoc = '1'.repeat(10)
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
 global.stickpack = 'YT: FangzXD'
-global.stickauth = `© Fangz BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
-global.packname = 'By FangzXD'
+global.stickauth = `© NoerBoTZ-Mdོ\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
+global.packname = 'By Nurpeh'
 
 
 global.multiplier = 38 // The higher, The harder levelup
@@ -559,7 +560,7 @@ global.fpay = {
 	key: {
 		remoteJid: '0@s.whatsapp.net',
 		fromMe: false,
-		id: 'FangzXD',
+		id: 'FanzXD',
 		participant: '0@s.whatsapp.net'
 	},
 	message: {
@@ -586,7 +587,7 @@ global.fpayment = (m) => {
 		key: {
 		remoteJid: '0@s.whatsapp.net',
 		fromMe: false,
-		id: 'FangzXD',
+		id: 'FanzXD',
 		participant: '0@s.whatsapp.net'
 	},
 	message: {
@@ -596,7 +597,7 @@ global.fpayment = (m) => {
 			requestFrom: (m !== null && m !== undefined) ? m.sender : '0@s.whatsapp.net',
 			noteMessage: {
 				extendedTextMessage: {
-					text: (m !== null && m !== undefined) ? m.text : 'Subs YT: FangzXD'
+					text: (m !== null && m !== undefined) ? m.text : 'Subs YT: IPEH TC'
 				}
 			},
 			expiryTimestamp: 999999999,
